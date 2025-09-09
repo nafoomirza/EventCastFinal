@@ -11,7 +11,7 @@
       "backgroundColor": "#0f0c29"
     },
     "android": {
-      "package": "com.nafoomirza.eventcast",
+      "package": "com.aicek.eventcast",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon-foreground.png",
